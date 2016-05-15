@@ -1,0 +1,25 @@
+h1 {
+	font-family: 'Impact', Helvetica, Arial, sans-serif;
+	font-size: 50px;
+	color: #0215c4;
+}
+h2 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 35px;
+	color: #0215c4;
+  font-style: italic;
+}
+p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  color: #000000;
+}
+button {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  color: #999999;
+  background-color: #800f00;
+  border-radius: 15px;
+  padding: 15px 15px 15px 15px;
+  border-style: none;
+}
